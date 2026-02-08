@@ -12,9 +12,9 @@
 
 ## 1-2. 名刺作成依頼通知システム
 名刺作成依頼の受付・通知・台帳反映を自動化
-- 詳細: `2-business-card-request/`
+- 詳細: [1-2 名刺作成依頼通知システム](./SystemOutput/2-business-card-request/)
 
 ## 1-3. 代理店案件管理（契約進捗管理）システム
 代理店ごとの案件・契約ステータスの管理と更新を支援
-- 詳細: `3-agency-deal-tracking/`
+- 詳細: [1-3 代理店案件管理（契約進捗管理）システム](./SystemOutput/3-agency-deal-tracking/)
 
